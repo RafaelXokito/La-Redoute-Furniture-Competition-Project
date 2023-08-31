@@ -1,7 +1,7 @@
 # La Redoute Furniture Competition Project 🛋️✨
 
 <video width="320" height="240" controls>
-  <source src="assets/tumb.mov" type="video/mov">
+  <source src="assets/tumb.mov" type="video/quicktime">
   Your browser does not support the video tag.
 </video>
 
