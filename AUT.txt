@@ -1,0 +1,53 @@
+AUT - https://www.laredoute.pt/
+
+	[X] - Tipo de utilizadores
+
+	[X] - Análise de taferas
+
+
+
+
+
+	[ ] - Qual a sua faixa etária
+		[ ] ------------ [ ] ------------ [ ]
+	   16-30 			30-50 	       50 ou mais
+
+	[ ] - Sexo
+		[ ] - Masculino
+		[ ] - Feminino
+
+	[ ] - Tem alguma(s) limitação/limitações ou condicionante(s) visual?
+		[ ] - Sim
+		[ ] - Não
+
+	[ ] - Caso tenha alguma(s) limitação/limitações visual(ais), qual? 
+	(por exemplo, estigmatismo, daltonismo, etc.)
+		[ ] - ___________________
+
+	[ ] - Com que frequência efetua uma compra online?
+		[ ] ---------------- [ ] ---------------- [ ] ---------------- [ ]
+  Uma vez por dia    De 2 a 3 vezes por semana   Mensalmente             Nunca
+
+	[ ] - Se a sua resposta anterior foi 'Nunca', porquê? 
+	(por exemplo, não sabe como funciona)
+		[ ] - ___________________
+
+	[ ] - Encontra alguma(s) dificuldade(s) atualmente no website?
+		[ ] ------------ [ ] ------------ [ ] ------------ [ ] ------------ [ ]
+	  Bastantes			 Sim            Algumas           Poucas		  Nenhumas
+
+	[ ] - Caso encontre alguma(s) dificuldade(s), qual?
+	(por exemplo, não encontra o que quer, demasiada informação)
+		[ ] - ___________________
+
+	[ ] - Mudaria alguma(s) coisa(s) no website atual?
+		[ ] ------------ [ ] ------------ [ ] ------------ [ ] ------------ [ ]
+	  Bastantes			 Sim            Algumas           Poucas		  Nenhumas
+
+	[ ] - Se mudaria alguma(s) coisa(s), o quê?
+	(por exemplo, mais simplicidade, cores, contraste)
+		[ ] - ___________________
+
+	[ ] - Qual viabilidade de um novo site https://www.laredoute.pt/
+		[ ] ------------ [ ] ------------ [ ] ------------ [ ]
+	Bastante viável		Viável         Pouco viável		Nada viável

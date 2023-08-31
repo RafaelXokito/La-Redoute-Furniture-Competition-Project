@@ -1,0 +1,355 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+
+#headerContainer{
+    box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.25);
+}
+
+.globalHeader{
+    margin-left:  0px;
+    margin-right: 0px;
+    width: 100vw;
+    height: 55px;
+    position: relative;
+    background: #FFFFFF;
+}
+
+.categoriesHeader {
+    position: relative;
+    margin: auto;
+    text-align: center;
+    width: fit-content;
+    top: 27.12%;
+    bottom: 35.29%;
+}
+
+.logoHeader {
+    position: absolute;
+    width: 182px;
+    height: 20px;
+    left: 27.24%;
+    right: 60.11%;
+    top: 32.74%; 
+    margin-top: -3px;   
+}
+
+.iconsHeader {
+    position: absolute;
+    left: 57.75%;
+    right: 27.24%;
+    top: 31.76%;
+    bottom: 31.76%;
+}
+
+.iconHeader {
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+
+}
+
+.lineHeader {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 90%;
+    height: 0px;
+    left: 62px;
+    top: 85px;
+    border: 1px solid #dfdfdf;
+}
+
+.textHeader {
+    position: relative;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 28px;
+    display: inline;
+    margin-right: 62px;
+}
+
+.searchBar {
+    position: absolute;
+    display: none;
+
+}
+
+.txtSearchBar {
+    font-family: 'Source Sans Pro';
+    font-size: 20px;
+    height: 100%;
+    padding-left: 0.1em;
+    background-color: transparent;
+    border: 0;
+    width: 100%;
+    height: 100%;
+    margin-left: 30px;
+    margin-top: -5px;
+}
+
+
+.search-input {
+    border: transparent;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+}
+
+::placeholder {
+    color: #000000;
+ }
+
+.mainContent{
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+                                /*-------------- sp-responsive-aw18/all-modules.css --------------*/
+                                /* [ global */
+                                .module-bg {
+                                  position: absolute;
+                                  z-index: 0;
+                                  top: 100px;
+                                  bottom: 100px;
+                                  left: -15px;
+                                  right: -15px;
+                                  background-color: #d7d7d7;
+                                }
+                                .module-item {
+                                  text-align: center;
+                                  margin-bottom: 15px;
+                                }
+                                .module-item.left {
+                                  text-align: left;
+                                }
+                                .module-item.right {
+                                  text-align: right;
+                                }
+
+                                @media (max-width: 767px) {
+                                  .module-item img {
+                                    width: 100%;
+                                  }
+                                  .desktop {
+                                    display: none;
+                                  }
+                                }
+                                /* plp banner */
+                                .pl-banner {
+                                  margin-top: 0 !important;
+                                  margin-left: -15px;
+                                  margin-right: -15px;
+                                  text-align: center;
+                                  overflow: hidden;
+                                }
+                                .plp-Black-friday-furniture-xmas
+                                  .pl-banner-text {
+                                  padding: 10px;
+                                }
+                                .plp-Black-friday-furniture-xmas
+                                  .pl-banner-img {
+                                  margin-left: -75px;
+                                  margin-right: -75px;
+                                }
+                                .plp-Black-friday-furniture-xmas
+                                  .pl-banner-textimg-text {
+                                  display: none;
+                                }
+                                .plp-Black-friday-furniture-xmas
+                                  .pl-banner-btn {
+                                  display: inline-block;
+                                  padding: 5px 14px;
+                                  font-family: "Source Sans Pro", sans-serif !important;
+                                  font-weight: 500;
+                                  font-size: 13px;
+                                  line-height: 24px;
+                                }
+                                .plp-Black-friday-furniture-xmas
+                                  .pl-banner-btn-container
+                                  ul {
+                                  text-align: center; /*margin-top: 8px; background-color:#fff !important*/
+                                }
+                                .plp-Black-friday-furniture-xmas
+                                  .pl-banner-btn-container
+                                  li {
+                                  float: left;
+                                  margin-right: 5px;
+                                  padding: 0 20px;
+                                  height: 34px;
+                                  font-family: "Source Sans Pro", sans-serif;
+                                  font-weight: 500;
+                                  font-size: 14px;
+                                  line-height: 28px;
+                                }
+                                .plp-Black-friday-furniture-xmas
+                                  .pl-banner-btn-container
+                                  li
+                                  a {
+                                  color: #000 !important;
+                                  text-decoration: none;
+                                }
+                                .plp-Black-friday-furniture-xmas
+                                  .pl-banner-btn-container
+                                  li
+                                  a:hover {
+                                  border-bottom: 2px solid #ff4b31; /*opacity: 0.8;*/
+                                  transition: ease 0.25s;
+                                }
+
+                                @media (min-width: 768px) {
+                                  .pl-banner {
+                                    margin-left: 0;
+                                    margin-right: 0;
+                                  }
+                                  .plp-Black-friday-furniture-xmas
+                                    .pl-banner-img {
+                                    margin-left: 0;
+                                    margin-right: 0;
+                                  }
+                                  .plp-Black-friday-furniture-xmas
+                                    .pl-banner-btn-container
+                                    ul {
+                                    text-align: center; /*margin-top: 8px;*/
+                                  }
+                                  .plp-Black-friday-furniture-xmas
+                                    .pl-banner-btn-container
+                                    li {
+                                    float: left;
+                                    margin-right: 5px;
+                                    padding: 0 20px;
+                                    height: 28px;
+                                    font-family: "Source Sans Pro", sans-serif;
+                                    font-weight: 500;
+                                    font-size: 14px;
+                                    line-height: 25px;
+                                  }
+                                  .plp-Black-friday-furniture-xmas
+                                    .pl-banner-btn-container
+                                    li
+                                    a {
+                                    color: #000 !important;
+                                    text-decoration: none;
+                                  }
+                                  .plp-Black-friday-furniture-xmas
+                                    .pl-banner-btn-container
+                                    li
+                                    a:hover {
+                                    border-bottom: 2px solid #ff4b31; /*opacity: 0.8;*/
+                                    transition: ease 0.25s;
+                                  }
+                                  .plp-Black-friday-furniture-xmas .mobile {
+                                    display: none;
+                                  }
+                                }
+
+                                @media (min-width: 992px) {
+                                  .plp-Black-friday-furniture-xmas
+                                    .pl-banner-textimg-img {
+                                    width: 415px;
+                                  }
+                                  .plp-Black-friday-furniture-xmas
+                                    .pl-banner-textimg-logo {
+                                    margin-bottom: 5px;
+                                  }
+                                  .plp-Black-friday-furniture-xmas
+                                    .pl-banner-textimg-text {
+                                    display: block;
+                                    max-width: 320px;
+                                    padding: 10px;
+                                    text-align: left;
+                                  }
+                                  .plp-Black-friday-furniture-xmas
+                                    .pl-banner-btn-container
+                                    ul {
+                                    text-align: center; /*margin-top: 8px;*/
+                                  }
+                                  .plp-Black-friday-furniture-xmas
+                                    .pl-banner-btn-container
+                                    li {
+                                    float: left;
+                                    margin-right: 5px;
+                                    padding: 0 20px;
+                                    height: 28px;
+                                    font-family: "Source Sans Pro", sans-serif;
+                                    font-weight: 500;
+                                    font-size: 14px;
+                                    line-height: 25px;
+                                  }
+                                  .plp-Black-friday-furniture-xmas
+                                    .pl-banner-btn-container
+                                    li
+                                    a {
+                                    color: #000 !important;
+                                    text-decoration: none;
+                                  }
+                                  .plp-Black-friday-furniture-xmas
+                                    .pl-banner-btn-container
+                                    li
+                                    a:hover {
+                                    border-bottom: 2px solid #ff4b31; /*opacity: 0.8;*/
+                                    transition: ease 0.25s;
+                                  }
+                                  .plp-Black-friday-furniture-xmas .mobile {
+                                    display: none;
+                                  }
+                                }
+
+                                @media (min-width: 1200px) {
+                                  .plp-Black-friday-furniture-xmas
+                                    .pl-banner-textimg-img {
+                                    width: 515px;
+                                  }
+                                  .plp-Black-friday-furniture-xmas
+                                    .pl-banner-textimg-text {
+                                    max-width: 420px;
+                                  }
+                                  .plp-Black-friday-furniture-xmas
+                                    .pl-banner-btn-container
+                                    ul {
+                                    text-align: center; /*margin-top: 8px;*/
+                                  }
+                                  .plp-Black-friday-furniture-xmas
+                                    .pl-banner-btn-container
+                                    li {
+                                    float: left;
+                                    margin-right: 5px;
+                                    padding: 0 20px;
+                                    height: 28px;
+                                    font-family: "Source Sans Pro", sans-serif;
+                                    font-weight: 500;
+                                    font-size: 14px;
+                                    line-height: 25px;
+                                  }
+                                  .plp-Black-friday-furniture-xmas
+                                    .pl-banner-btn-container
+                                    li
+                                    a {
+                                    color: #000 !important;
+                                    text-decoration: none;
+                                  }
+                                  
+                                    .plp-Black-friday-furniture-xmas
+                                    .pl-banner-btn-container
+                                    li
+                                    a:hover {
+                                    border-bottom: 2px solid #ff4b31; /*opacity: 0.8;*/
+                                    transition: ease 0.25s;
+                                  }
+                                  
+                                  .plp-Black-friday-furniture-xmas .mobile {
+                                    display: none;
+                                  }
+                                }
+                                
