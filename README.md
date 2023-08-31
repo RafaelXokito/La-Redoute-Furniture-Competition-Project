@@ -1,9 +1,6 @@
 # La Redoute Furniture Competition Project 🛋️✨
 
-<video width="320" height="240" controls>
-  <source src="assets/tumb.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![](assets/tumb.gif)
 
 Welcome to the La Redoute Furniture Competition Project, developed for the annual Laredout competition at the Polytechnic of Leiria. This project aims to revolutionize the way we visualize furniture by leveraging the power of 3D graphics and animations. Dive into an immersive web platform that showcases furniture in a way you've never seen before!
 
